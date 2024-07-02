@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ProjectCLRCorbeille.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ArticleForm.cpp
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(349,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(394,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(420,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(442,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(470,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\ArticleForm.h(303,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\ArticleForm.h(327,35): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\ArticleForm.h(329,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\ArticleForm.h(368,22): warning C4101: 'e': unreferenced local variable
+  LoginForm.cpp
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(349,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(394,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(420,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(442,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(470,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\ArticleForm.h(303,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\ArticleForm.h(327,35): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\ArticleForm.h(329,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\ArticleForm.h(368,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\LoginForm.h(361,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\LoginForm.h(375,20): warning C4101: 'e': unreferenced local variable
+  TableArticleForm.cpp
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(349,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(394,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(420,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(442,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\TableArticleForm.h(470,20): warning C4101: 'e': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  ArticleForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProjectCLRCorbeille.vcxproj -> C:\Users\Alexis SEURIN\Desktop\Projet_alexis\ApplicationShopping\Debug\ProjetApplicationShopping.exe
